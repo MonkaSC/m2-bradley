@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\kali\vehicles\cod4\bradley\vehicle_bradley_track_MW2_col"
+	"$bumpmap" "models\kali\vehicles\cod4\bradley\vehicle_bradley_track_n"
+	"$halflambert" "1"				
+	"$nocull" 1		
+
+	"$normalmapalphaenvmapmask" 1				
+	"$envmap" "env_cubemap"					
+	"$envmaptint" "[ .3 .3 .3 ]"					
+ 	"$envmapFresnel" "0.5"					
+
+	"$phong" "1"						
+	"$phongexponenttexture" "models\kali\vehicles\cod4\bradley\vehicle_bradley_track_exp"
+	"$phongboost" "6"						
+	"$phongfresnelranges"	"[ .2 1.2 8]"	
+
+	"$PhongAlbedoTint" "1"		
+
+}
+
+
